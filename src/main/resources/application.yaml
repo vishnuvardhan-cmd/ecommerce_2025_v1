@@ -7,3 +7,4 @@ spring:
     password: Vishnu143#
   jpa:
     show-sql: true
+
